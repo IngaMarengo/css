@@ -32,3 +32,4 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+.installed.cfg
