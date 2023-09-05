@@ -52,3 +52,4 @@ htmlcov/
 .nox/
 .coverage
 .coverage.*
+.cache
