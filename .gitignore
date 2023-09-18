@@ -63,3 +63,4 @@ cover/
 
 # Translations
 *.mo
+*.pot
