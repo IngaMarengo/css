@@ -118,3 +118,4 @@ celerybeat.pid
 .env
 .venv
 env/
+venv/
