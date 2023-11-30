@@ -7,3 +7,5 @@ help for {hi:ivreg2}
 {title:Extended instrumental variables/2SLS, GMM and AC/HAC, LIML and k-class regression}
 
 {p 4}Full syntax
+
+{p 8 14}{cmd:ivreg2} {it:depvar} [{it:varlist1}]
