@@ -9,3 +9,4 @@ help for {hi:ivreg2}
 {p 4}Full syntax
 
 {p 8 14}{cmd:ivreg2} {it:depvar} [{it:varlist1}]
+{cmd:(}{it:varlist2}{cmd:=}{it:varlist_iv}{cmd:)} [{it:weight}]
